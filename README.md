@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-Repository%20Migration-F05032?logo=git&logoColor=white" alt="Git repository migration">
-  <img src="https://img.shields.io/badge/GitHub-CLI-181717?logo=github&logoColor=white" alt="GitHub CLI">
-  <img src="https://img.shields.io/badge/PowerShell-Bulk%20Automation-5391FE?logo=powershell&logoColor=white" alt="PowerShell automation">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="35%">
 </p>
 
 <h1 align="center">GitHub Account-to-Account Repository Migration ETL</h1>
