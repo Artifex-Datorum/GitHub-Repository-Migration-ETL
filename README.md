@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="35%">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb66926d4c6158b6c/69d41ea59d80127a3038fb86/github_PJ_McDonnell_shutterstock.jpg" width="100%">
 </p>
 
 <h1 align="center">GitHub Account-to-Account Repository Migration ETL</h1>
